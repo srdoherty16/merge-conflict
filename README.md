@@ -2,4 +2,4 @@
 
 ## Remote Changes
 
-these are my chnges made on githup.com
+These are my changes made on github.com
